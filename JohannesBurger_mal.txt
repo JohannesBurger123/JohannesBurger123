@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name = "viewport" content = "width = device-width", initial-scale = 1.0">
+	<meta http-equiv = "X-UA-Compatible" content = "IE=edge">
+	<title>JohannesBurgerFC</title>
+	<link rel = "Stylesheet" href = "JohannesBurger_stiler.css">
+</head>
+<body>
+	<header>
+		<div class = "header"> </div>
+		<div class = "header"> <a href = "Om_oss.html"> OM OSS </a></div>
+		<div class = "header"> <a href = "Spillere.html"> SPILLERE </a></div>
+		<div class = "header"> <a href = "JohannesBurger_hoved.html"> <img src = "Bilder/logo.png" alt = "logo" height = "100" width = "100%"></a></div>
+		<div class = "header"> <a href = "Resultater.html"> RESULTATER </a></div>
+		<div class = "header"> <a href = "Spill.html"> FINN BURGERN! </a> </div>
+		<div class = "header"> </div>
+	</header>
+	
+	<main>
+
+	</main>
+
+	<footer>
+		<div id = "topp">
+				
+			
+			<div class = "sponsor"> <a href = "https://nydalen.vgs.no/" target = _blanc> <img src = "Bilder/nydalen.jpg" alt = "sponsor 1" > </a></div>
+			<div class = "sponsor"> <a href = "https://mfa-pmr.org/en/" target = _blanc> <img src = "Bilder/trinoe.jpg" alt = "sponsor 6" > </a> </div>
+			<div class = "sponsor"> <a href = "https://www.visma.no/" target = _blanc> <img src = "Bilder/visma.png" alt = "sponsor 2" > </a></div>
+			
+			
+			<div class = "sponsor"> <a href = "https://www.gilde.no/" target = _blanc> <img src = "Bilder/gilde.jpg" alt = "sponsor 4" > </a> </div>
+			<div class = "sponsor"> <a href = "https://www.grytelokket.no/" target = _blanc> <img src = "Bilder/grytelokket-logo.png" alt = "sponsor 5" > </a> </div>
+			<div class = "sponsor"> <a href = "https://www.bakehuset.no/" target = _blanc> <img src = "Bilder/Bakehuset-logo-stor.png" alt = "sponsor 3" > </a> </div>
+			
+			
+		</div>
+		
+		<div id = "bunn"> 
+			<p> <b>POST- OG BESØKSADRESSE </b><br> <small> Nydalsveien 30c Gymsalen, 0484 </small></p> <p> <b>Kontakt oss på </b><br> <small>Eifla001@osloskolen.no </small></p>
+		</div>
+	</footer>
+
+
+</body>
+</hmtl>
