@@ -395,8 +395,8 @@ footer{
 
 .container_resultat{
 	display: flex;
-	gap: 50px;
-	margin: 0px 20% 0px 20%;
+	gap: 2%;
+	margin: 0px 4% 0px 4%;
 }
 
 .container_resultat > div{
